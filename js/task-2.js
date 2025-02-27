@@ -32,6 +32,7 @@ const getUsersWithFriend = (users, friendName) =>
     }
   ];
   
+ 
   console.log(getUsersWithFriend(allUsers, "Briana Decker")); 
   console.log(getUsersWithFriend(allUsers, "Goldie Gentry"));
-  console.log(getUsersWithFriend(allUsers, "Adrian Cross"));
+  console.log(getUsersWithFriend(allUsers, "Adrian Cross" ));
